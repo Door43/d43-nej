@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nej:home|Door43 (nej)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nej|d43-nej repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nej/archive/master.zip|d43-nej.zip]]
+
+**Recent Changes**
+{{changes>ns = nej}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nej|Ethnologue data]]
+
